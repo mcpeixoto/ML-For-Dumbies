@@ -5,7 +5,6 @@ This repository constains all the code used in the article ["Machine learning fo
 The article explores the basic concepts behind ML with a simple example using linear regression. It also explores some of the terminology and metrics.
 
 <p float="center">
-<img src="media/gif1.gif" width="300" height="300"/>
 <img src="media/gif2.gif" width="300" height="300"/>
 <img src="media/gif3.gif" width="300" height="300"/>
 </p>
